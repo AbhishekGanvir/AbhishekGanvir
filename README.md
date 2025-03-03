@@ -34,7 +34,7 @@
 ### Skills
 <p align="left">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" />
-  <img src="https://img.icons8.com/?size=96&id=21278&format=png" width="50" height="46" alt="CSS" />
+  <img src="https://img.icons8.com/?size=96&id=21278&format=png" width="50" height="47" alt="CSS" />
   <img src="https://img.icons8.com/?size=128&id=ZMc42tPbG32H&format=png" width="50" height="45"  />
    <img src="https://img.icons8.com/?size=96&id=CIAZz2CYc6Kc&format=png" width="50" height="48"  />
    <img src="https://img.icons8.com/?size=96&id=dJjTWMogzFzg&format=png" width="50" height="48"  />
