@@ -40,10 +40,6 @@
    <img src="https://img.icons8.com/?size=128&id=52539&format=png" width="50" height="48"  />
    <img src="https://img.icons8.com/?size=96&id=9nLaR5KFGjN0&format=png" width="50" height="48"  />
 </p> 
-<div align="left">
-    <div align="left">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
   
 <div align="left">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -57,6 +53,11 @@
 </p>
 
  <div align="left">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+<div align="left">
+    <div align="left">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
