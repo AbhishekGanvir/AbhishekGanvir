@@ -15,17 +15,6 @@
 * ✉️  You can contact me at [abhishekganvirr@gmail.com](mailto:abhishekganvirr@gmail.com)
 * 🤖 I'm currently working on an AI-based project with the Gemini Multimodal API.
 * 🚀 I'm interested in future tech.
- 
- <div align="left">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-<h3 align="left">Connect with me </h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/abhishekganvir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek ganvir" height="26" width="35" /></a>
-<a href="https://instagram.com/aintyourtamatar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alright.abhi" height="30" width="40" /></a>
-<a href="https://discord.com/users/1240908554534260872" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="abhishekganvir" height="30" width="40" /></a>
-<a href="https://telegram.me/AbhiGanvir" target="blank"><img align="center" src="https://www.svgrepo.com/show/452115/telegram.svg" alt="telegram" height="35" width="40" /></a>
-</p>
 
  <div align="left">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -56,6 +45,21 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
   
+<div align="left">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+<h3 align="left">Connect with me </h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/abhishekganvir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek ganvir" height="26" width="35" /></a>
+<a href="https://instagram.com/aintyourtamatar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alright.abhi" height="30" width="40" /></a>
+<a href="https://discord.com/users/1240908554534260872" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="abhishekganvir" height="30" width="40" /></a>
+<a href="https://telegram.me/AbhiGanvir" target="blank"><img align="center" src="https://www.svgrepo.com/show/452115/telegram.svg" alt="telegram" height="35" width="40" /></a>
+</p>
+
+ <div align="left">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
 <!---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekganvir&layout=donut-vertical&show_icons=true&theme=radical)
 <div align="left">
