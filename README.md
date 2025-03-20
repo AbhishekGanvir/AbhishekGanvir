@@ -35,9 +35,10 @@
    <img src="https://img.icons8.com/?size=160&id=Pv4IGT0TSpt8&format=png" width="50" height="48"  />
    <img src="https://img.icons8.com/?size=96&id=rHpveptSuwDz&format=png" width="50" height="48"  />
    <img src="https://img.icons8.com/?size=96&id=8verEw3iUvx0&format=png" width="50" height="48"  />
+<img src="https://i.postimg.cc/2jcRf94d/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpw.png" width="50" height="48"  />
    <img src="https://img.icons8.com/?size=128&id=52539&format=png" width="50" height="48"  />
    <img src="https://img.icons8.com/?size=96&id=q0M8gjDmE4iW&format=png" width="50" height="48"  />
-   <img src="https://i.postimg.cc/2jcRf94d/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpw.png" width="50" height="48"  />
+   
    <img src="https://img.icons8.com/?size=48&id=nbpSvU238hVo&format=png"  />
 </p> 
   
