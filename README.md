@@ -39,7 +39,7 @@
    <img src="https://img.icons8.com/?size=128&id=52539&format=png" width="50" height="48"  />
    <img src="https://img.icons8.com/?size=96&id=q0M8gjDmE4iW&format=png" width="50" height="48"  />
    
-   <img src="https://img.icons8.com/?size=48&id=nbpSvU238hVo&format=png"  />
+   <img src="https://img.icons8.com/?size=48&id=nbpSvU238hVo&format=png" width="50" height="48" />
 </p> 
   
 <div align="left">
