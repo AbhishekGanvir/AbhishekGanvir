@@ -41,7 +41,7 @@
    <img src="https://img.icons8.com/?size=96&id=q0M8gjDmE4iW&format=png" width="50" height="48"  /> <img
 src="https://img.icons8.com/?size=96&id=4YmrqudTVJhf&format=png" width="48" height="42" />
 <img
-src="https://img.icons8.com/?size=160&id=ntDA7SYwfBs4&format=png" width="48" height="42" />
+src="https://img.icons8.com/?size=96&id=wpZmKzk11AzJ&format=png" width="48" height="42" />
 
 </p> 
   
