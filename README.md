@@ -42,7 +42,6 @@
 src="https://img.icons8.com/?size=96&id=4YmrqudTVJhf&format=png" width="48" height="42" />
 <img
 src="https://img.icons8.com/?size=96&id=62452&format=png" width="48" height="42" />
-
 <img
 src="https://img.icons8.com/?size=96&id=wpZmKzk11AzJ&format=png" width="48" height="42" />
 
