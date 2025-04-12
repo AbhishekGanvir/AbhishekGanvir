@@ -28,7 +28,6 @@
    <img src="https://img.icons8.com/?size=96&id=CIAZz2CYc6Kc&format=png" width="50" height="48"  />
    <img src="https://img.icons8.com/?size=96&id=dJjTWMogzFzg&format=png" width="50" height="48"  />
    <img src="https://img.icons8.com/?size=128&id=Nkym0Ujb8VGI&format=png" width="50" height="48"  />
-   <img src="https://img.icons8.com/?size=160&id=HKNzD81eiiSc&format=png" width="50" height="48"  />
    <img src="https://img.icons8.com/?size=96&id=hsPbhkOH4FMe&format=png" width="50" height="48"  />
    <img src="https://img.icons8.com/?size=128&id=lVitPDXqQKP8&format=png" width="50" height="48"  />
    <img src="https://img.icons8.com/?size=160&id=tBBf3P8HL0vR&format=png" width="50" height="48"  />
