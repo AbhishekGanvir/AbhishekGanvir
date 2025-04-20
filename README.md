@@ -13,7 +13,6 @@
 
 * 🎓  I'm currently pursuing a B.Tech in CSE.
 * ✉️  You can contact me at [abhishekganvirr@gmail.com](mailto:abhishekganvirr@gmail.com)
-* 🤖 I'm currently working on an AI-based project with the Gemini Multimodal API.
 * 🚀 Interested in future tech.
 
  <div align="left">
