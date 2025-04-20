@@ -13,7 +13,7 @@
 
 * 🎓  I'm currently pursuing a B.Tech in CSE.
 * ✉️  You can contact me at [abhishekganvirr@gmail.com](mailto:abhishekganvirr@gmail.com)
-* ✨️ My best work till now  [IntervueAI](https://abhishekganvir.vercel.app)
+* ✨️ My best work till now  [IntervueAI](https://intervueai-io.vercel.app)
 * 🚀 Interested in future tech.
 
  <div align="left">
