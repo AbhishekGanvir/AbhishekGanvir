@@ -2,7 +2,7 @@
 ]()
 <h1 align="center">Hi 👋, I'm Abhishek Ganvir!</h1>
 <h3 align="center">A Passionate Full Stack Developer from India
-    <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"></h3>
+    </h3>
 <div align="left">
     <div align="left">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
