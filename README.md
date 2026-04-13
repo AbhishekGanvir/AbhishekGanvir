@@ -1,3 +1,4 @@
+<!--
 [![Pixel Art Wallpaper Desktop Gif](https://github.com/user-attachments/assets/68b05b87-a235-4916-82e3-b3d8bfa59896)
 ]()
 <h1 align="center">Hi 👋, I'm Abhishek Ganvir!</h1>
@@ -57,7 +58,7 @@ src="https://img.icons8.com/?size=96&id=wpZmKzk11AzJ&format=png" width="48" heig
  <div align="left">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
-
+-->
 
 
 <!---
