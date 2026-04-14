@@ -3,7 +3,7 @@
 ]()
 
 <h1 align="center">
-Hi 👋, I'm Abhishek
+Hi 👋, I'm Abhishek Ganvir
 </h1>
 
   ### 🎓 About Me
