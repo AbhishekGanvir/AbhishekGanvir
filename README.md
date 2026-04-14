@@ -6,11 +6,12 @@
 Hi 👋, I'm Abhishek Ganvir
 </h1>
 
-  ### 🎓 About Me
-
  <div align="left">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
+  ### 🎓 About Me
+
+
 
 
 * 🎓  I'm currently pursuing a B.Tech in CSE
