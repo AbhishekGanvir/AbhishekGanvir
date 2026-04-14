@@ -8,7 +8,9 @@ Hi 👋, I'm Abhishek Ganvir
 
   ### 🎓 About Me
 
-
+ <div align="left">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
 
 * 🎓  I'm currently pursuing a B.Tech in CSE
