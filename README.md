@@ -48,6 +48,7 @@ src="https://img.icons8.com/?size=96&id=wpZmKzk11AzJ&format=png" width="48" heig
 <div align="left">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
+<!---
 <h3 align="left">Connect with me </h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/abhishekganvir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek ganvir" height="26" width="35" /></a>
