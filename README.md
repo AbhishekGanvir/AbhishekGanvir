@@ -22,15 +22,7 @@ Hey there 👋, I'm Abhishek Ganvir
 
 <br>
 
-### 🌌 A Little More About Me
-```txt
-while(alive){
-   learn();
-   build();
-   improve();
-   repeat();
-}
-```
+
 <!---
 ### Skills
 <p align="left">
